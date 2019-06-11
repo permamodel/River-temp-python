@@ -8,7 +8,7 @@ You can run the model with the River_temp_portal.
 
 Please note that the default riverbed deposit is sand and gravel, users can change the sedimentary material with corresponding physical and thermal parameters. 
 
-Inputs
+Inputs------------------------------------------------------------
 
 His: incident solar (shortwave) radiation (w m-2)   --- Mfile 
 
@@ -28,7 +28,7 @@ rivericeoff: First day of river induation (DOY)
 
 rivericeon: Last day of river induation (DOY)
 
-Output
+Output-----------------------------------------------------------
 
 Tw: Water temperature (°C)
 
