@@ -9,25 +9,27 @@ You can run the model with the River_temp_portal.
 Please note that the default riverbed deposit is sand and gravel, users can change the sedimentary material with corresponding physical and thermal parameters. 
 
 Inputs
-His: incident solar (shortwave) radiation (w m-2)   %%% Mfile 
 
-Hdl: Downward thermal (Longwave) radiation (w m-2)  %%% Mfile 
+His: incident solar (shortwave) radiation (w m-2)   --- Mfile 
 
-Ta: Air temperature (°C)                            %%% Mfile 
+Hdl: Downward thermal (Longwave) radiation (w m-2)  --- Mfile 
 
-Uw:  Wind speed (m/s)                               %%% Mfile 
+Ta: Air temperature (°C)                            --- Mfile 
 
-rh: Relative humidity (0-1)                         %%% Mfile 
+Uw:  Wind speed (m/s)                               --- Mfile 
 
-P: Surface pressure (pa)                            %%% Mfile 
+rh: Relative humidity (0-1)                         --- Mfile 
 
-h:  River stage (m)                                 %%% Sfile 
+P: Surface pressure (pa)                            --- Mfile 
+
+h:  River stage (m)                                 --- Sfile 
 
 rivericeoff: First day of river induation (DOY)
 
 rivericeon: Last day of river induation (DOY)
 
 Output
+
 Tw: Water temperature (°C)
 
 
