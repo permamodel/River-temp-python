@@ -10,13 +10,21 @@ Please note that the default riverbed deposit is sand and gravel, users can chan
 
 Inputs
 His: incident solar (shortwave) radiation (w m-2)   %%% Mfile 
+
 Hdl: Downward thermal (Longwave) radiation (w m-2)  %%% Mfile 
+
 Ta: Air temperature (°C)                            %%% Mfile 
+
 Uw:  Wind speed (m/s)                               %%% Mfile 
+
 rh: Relative humidity (0-1)                         %%% Mfile 
+
 P: Surface pressure (pa)                            %%% Mfile 
+
 h:  River stage (m)                                 %%% Sfile 
+
 rivericeoff: First day of river induation (DOY)
+
 rivericeon: Last day of river induation (DOY)
 
 Output
