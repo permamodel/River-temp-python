@@ -2,11 +2,11 @@
 
 River water temperature model 
 
-The river water temperature model is mainly applied in the Arctic rivers. Heat energy transfers considered include surface net solar radiation, net longwave radiation, latent heat due to evaporation and condensation, convective heat and the riverbed heat flux. 
+The river water temperature model is designed to be applied in Arctic rivers. Heat energy transfers considered include surface net solar radiation, net longwave radiation, latent heat due to evaporation and condensation, convective heat and the riverbed heat flux. 
 
 You can run the model with the River_temp_portal.
 
-Please note that the default riverbed deposit is sand and gravel, users can change the sedimentary material with corresponding physical and thermal parameters. 
+Please note that the default riverbed deposit is sand and gravel, users can change the sedimentary material with alternative soil/substrate physical and thermal parameters. 
 
 Inputs------------------------------------------------------------
 
@@ -33,4 +33,5 @@ Output-----------------------------------------------------------
 Tw: Water temperature (°C)
 
 
-
+The underlying theory and assumptions of this model are published in JGR-ES: 
+Changing Arctic River Dynamics Cause Localized Permafrost Thaw, Lei Zheng  Irina Overeem  Kang Wang  Gary D. Clow, 2019. Journal of Geophysical Research - Earth Surface. https://doi.org/10.1029/2019JF005060
